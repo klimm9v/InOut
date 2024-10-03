@@ -1,12 +1,6 @@
-
 fn main() {
     //
 }
-
-
-
-
-
 
 fn read_usize() -> usize {
     let mut num = String::new();   
